@@ -39,7 +39,6 @@ function App() {
           }}>
           Increment by 2
         </button>
-
       </div>
     </div>
   )
